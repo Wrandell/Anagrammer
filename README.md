@@ -64,7 +64,7 @@ Anagrammer aims to educate and give knowledge to computer related people. Anagra
 
 ## Demo Video
 
-Click to watch https://www.youtube.com/watch?v=oIYWenB637c
+Click to watch our [Demo](https://www.youtube.com/watch?v=oIYWenB637c)
 
 ## Researcher/Developer
 
