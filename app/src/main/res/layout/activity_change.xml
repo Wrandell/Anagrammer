@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#303030"
+    tools:context=".Register">
+
+    <ImageView
+        android:id="@+id/backBtn"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:src="@drawable/ic_baseline_arrow_back_24"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/title"
+        android:textAlignment="center"
+        android:textSize="50sp"
+        android:textColor="#C8C2C2"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="30dp"/>
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="13dp"
+        android:background="@drawable/edge"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingLeft="20dp"
+            android:layout_weight="8"
+            android:drawableLeft="@drawable/ic_baseline_security_24"
+            />
+
+        <EditText
+            android:id="@+id/password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColorHint="#C8C2C2"
+            android:hint="Password"
+            android:background="@drawable/edge"
+            android:padding="13dp"
+            android:layout_weight="1"
+            android:drawableRight="@drawable/ic_baseline_visibility_off_24"
+            android:textColor="#C8C2C2"
+            android:inputType="textPassword"
+            android:textAlignment="textStart"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="20dp"
+            android:textSize="20sp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="13dp"
+        android:background="@drawable/edge"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingLeft="20dp"
+            android:layout_weight="8"
+            android:drawableLeft="@drawable/ic_baseline_check_circle_outline_24"
+            />
+
+        <EditText
+            android:id="@+id/repassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColorHint="#C8C2C2"
+            android:hint="Retype Password"
+            android:padding="13dp"
+            android:textColor="#C8C2C2"
+            android:drawableRight="@drawable/ic_baseline_visibility_off_24"
+            android:layout_weight="1"
+            android:background="@drawable/edge"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="20dp"
+            android:inputType="textPassword"
+            android:textAlignment="textStart"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/registration"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="20dp"
+            android:background="@drawable/loginui"
+            android:text="Change Password"
+            android:textAlignment="center"
+            android:textAllCaps="false"
+            android:textColor="#C8C2C2"
+            android:textSize="22sp" />
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "467928707220",
+    "project_id": "anagrammer-65b03",
+    "storage_bucket": "anagrammer-65b03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467928707220:android:afb95b461c886f3f52c481",
+        "android_client_info": {
+          "package_name": "com.example.anagrammer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467928707220-4ujdpkvv36aqc4eovedk9fdm4oneqs4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj7EwdeO_9a_7EaOg6XaJfD2BsEmOK5NM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467928707220-4ujdpkvv36aqc4eovedk9fdm4oneqs4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

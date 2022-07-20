@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="10dp"
+    android:elevation="10dp"
+    android:layout_marginStart="10dp"
+    android:layout_marginEnd="10dp"
+    android:layout_marginTop="5dp"
+    android:background="#fff"
+    android:backgroundTint="@color/bgc1"
+    app:cardUseCompatPadding="true">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp">
+
+        <TextView
+            android:id="@+id/nameUser"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Student Name"
+            android:textColor="@color/white"
+            android:textSize="25sp" />
+
+        <TextView
+            android:id="@+id/finScore"
+            android:layout_below="@+id/nameUser"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Student Name"
+            android:textColor="@color/white"
+            android:textSize="25sp" />
+
+        <TextView
+            android:id="@+id/currentDate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/finScore"
+            android:layout_marginStart="2dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginEnd="2dp"
+            android:layout_marginBottom="2dp"
+            android:text="GWA"
+            android:textColor="@color/white"
+            android:textSize="18sp" />
+
+
+        <TextView
+            android:id="@+id/clearBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/currentDate"
+            android:layout_marginStart="2dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginEnd="2dp"
+            android:layout_marginBottom="2dp"
+            android:gravity="end"
+            android:text="clear"
+            android:textColor="#C86767"
+            android:textSize="18sp" />
+
+
+    </RelativeLayout>
+
+
+
+
+
+
+</androidx.cardview.widget.CardView>
