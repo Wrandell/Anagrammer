@@ -32,18 +32,19 @@ Anagrammer aims to educate and give knowledge to computer related people. Anagra
 
 
 
-![Home Page](https://user-images.githubusercontent.com/109640574/179944399-f2f0bc41-5dbe-4d76-8158-0af10e70e4f9.png)
+![Home Page (2)](https://user-images.githubusercontent.com/109640574/179950862-740922bd-062c-4391-bab3-e248c03bd92d.png)
+
 
 ### User Account Interface
 
 
 
-![User Account](https://user-images.githubusercontent.com/109640574/179944905-9745a53f-afc2-4eaf-85a7-e4cbd2a45ea4.png)
+![User account (2)](https://user-images.githubusercontent.com/109640574/179950902-aaba67e4-8ba9-423d-af2c-94341d22dfbc.png)
 
 
 ### Gameplay Interface
 
-![Gameplay](https://user-images.githubusercontent.com/109640574/179945341-610b4086-c29a-4e62-914f-509c16103a31.png)
+![Gameplay (2)](https://user-images.githubusercontent.com/109640574/179950955-80f7f19a-4216-44ab-938b-8939e681f856.png)
 
 
 ### Score Interface
@@ -53,7 +54,7 @@ Anagrammer aims to educate and give knowledge to computer related people. Anagra
 
 ## Game Feature
 
-### The vocabulary
+### Vocabulary
 
 * With the goal of explaining the words that the player will encounter in the game.
 * Any term they come across can be searched, and the meaning will be displayed.
