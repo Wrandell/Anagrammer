@@ -94,3 +94,7 @@ ITE Department
 ## Date
 
 * July 20, 2022
+
+## Feedback
+
+If you have any feedback, please reach out to us at palacio.si.bsinfotech@gmail.com
