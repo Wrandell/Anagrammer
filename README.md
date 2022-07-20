@@ -68,10 +68,10 @@ Click to watch our [Demo](https://www.youtube.com/watch?v=oIYWenB637c)
 
 ## Researcher/Developer
 
-* Wrandell Almeda
-* Sean Ian Palacio
-* Jonathan Jimenez
-* Jerymie Invina
+- [Wrandell Almeda](https://www.facebook.com/Almeda.w)
+- [Sean Ian Palacio](https://www.facebook.com/seanian15/)
+- [Jonathan Jimenez](https://www.facebook.com/Jnthnclvnjmnz)
+- [Jerymie Invina](https://www.facebook.com/jerymie.invina)
 
 ## Adviser
 
